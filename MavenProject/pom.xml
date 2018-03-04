@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.ram.mvnproject</groupId>
-  <artifactId>MavenTestApp</artifactId>
+  <artifactId>MavenProject</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
